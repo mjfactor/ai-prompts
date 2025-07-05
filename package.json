@@ -1,6 +1,6 @@
 {
     "name": "@mjfactor/ai-prompts",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "AI coding assistant prompt instructions for multiple programming languages including React, Python, Java, Go, Rust, and more",
     "main": "bin/cli.js",
     "keywords": [
