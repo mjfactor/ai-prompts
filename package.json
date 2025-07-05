@@ -42,7 +42,6 @@
         "LICENSE"
     ],
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "prepublishOnly": "echo \"Ready to publish\"",
         "postpublish": "echo \"Successfully published version $(npm pkg get version)\""
     },
