@@ -1,0 +1,59 @@
+{
+    "name": "@mjfactor/ai-prompts",
+    "version": "1.1.0",
+    "description": "AI coding assistant prompt instructions for multiple programming languages including React, Python, Java, Go, Rust, and more",
+    "keywords": [
+        "ai",
+        "prompt",
+        "instructions",
+        "react",
+        "nextjs",
+        "typescript",
+        "python",
+        "java",
+        "golang",
+        "rust",
+        "nodejs",
+        "tailwindcss",
+        "copilot",
+        "coding-assistant",
+        "development",
+        "multi-language"
+    ],
+    "homepage": "https://github.com/emjay/ai-prompt-instructions#readme",
+    "bugs": {
+        "url": "https://github.com/emjay/ai-prompt-instructions/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emjay/ai-prompt-instructions.git"
+    },
+    "license": "MIT",
+    "author": "mjfactor",
+    "type": "commonjs",
+    "bin": {
+        "ai-prompts": "bin/cli.js"
+    },
+    "files": [
+        "bin/",
+        "templates/",
+        "README.md",
+        "LICENSE"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prepare": "npm run build",
+        "build": "echo \"No build step required\"",
+        "prepublishOnly": "echo \"Ready to publish\""
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "commander": "^9.4.1",
+        "fs-extra": "^11.1.0",
+        "inquirer": "^8.2.4"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "preferGlobal": true
+}
