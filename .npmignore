@@ -1,0 +1,35 @@
+# Development files
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Development dependencies
+node_modules/
+coverage/
+.nyc_output/
+
+# Test files (if you add them)
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Build artifacts (if you add a build process)
+dist/
+build/
