@@ -20,13 +20,13 @@
         "development",
         "multi-language"
     ],
-    "homepage": "https://github.com/emjay/ai-prompt-instructions#readme",
+    "homepage": "https://github.com/mjfactor/ai-prompts.git",
     "bugs": {
-        "url": "https://github.com/emjay/ai-prompt-instructions/issues"
+        "url": "https://github.com/mjfactor/ai-prompts/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/emjay/ai-prompt-instructions.git"
+        "url": "git+https://github.com/mjfactor/ai-prompts.git"
     },
     "license": "MIT",
     "author": "mjfactor",
