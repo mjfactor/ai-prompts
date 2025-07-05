@@ -43,7 +43,6 @@
     ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "prepare": "npm run build",
         "prepublishOnly": "echo \"Ready to publish\"",
         "postpublish": "echo \"Successfully published version $(npm pkg get version)\""
     },
