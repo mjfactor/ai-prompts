@@ -81,6 +81,5 @@ Currently supported languages and frameworks:
 ### Web Development
 - **React/Next.js with shadcn/ui** (`react-nextjs-shadcn`)
   - Modern React development with Next.js, TypeScript, TailwindCSS, and shadcn/ui
-  - Includes theming support and accessibility guidelines
-
+  - Copilot prompt to not define theme and style in inline but use the global.css
 *More languages will be added as templates are provided*
