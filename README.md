@@ -2,15 +2,6 @@
 
 A comprehensive npm package containing standardized AI coding assistant prompt instructions for multiple programming languages and frameworks.
 
-## Features
-
-- 🎯 **Multi-Language Support**: Templates for React/Next.js, Python, Java, Go, Rust, and more
-- 🎨 **Interactive Selection**: Choose your language/framework with an intuitive CLI
-- 🔧 **Easy Installation**: Simple CLI commands to set up in any project
-- 📋 **Best Practices**: Follows DRY principles, accessibility standards, and modern coding conventions
-- 🚀 **Production Ready**: Includes error handling, input sanitization, and security best practices
-- 🌙 **Theme Support**: Respects design systems like shadcn/ui with dark mode support
-
 ## Installation
 
 ### Global Installation (Recommended)
